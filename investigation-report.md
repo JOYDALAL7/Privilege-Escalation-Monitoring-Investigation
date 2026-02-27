@@ -125,16 +125,13 @@ by attackers.
 ## Evidence
 
 ### Suspicious Process Detection
-
-![Suspicious Process](screenshots/suspicious-process-ps.png)
+![Suspicious Process](Screenshots/suspicious-process.png)
 
 ### Process Tree Analysis
-
-![Process Tree](screenshots/process-tree.png)
+![Process Tree](Screenshots/process-tree.png)
 
 ### Cron-Based Persistence
-
-## ![Cron Persistence](screenshots/cron-persistence.png)
+![Cron Persistence](Screenshots/cron-persistence.png)
 
 ## Conclusion
 
