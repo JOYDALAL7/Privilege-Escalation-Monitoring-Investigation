@@ -1,0 +1,7 @@
+Feb 28 01:10:01 kali sudo: pam_unix(sudo:auth): authentication failure; user=testuser
+Feb 28 01:10:05 kali sudo: pam_unix(sudo:auth): authentication failure; user=testuser
+Feb 28 01:10:08 kali sudo: pam_unix(sudo:auth): authentication failure; user=testuser
+Feb 28 01:10:12 kali sudo: pam_unix(sudo:auth): authentication failure; user=admin
+Feb 28 01:10:15 kali sudo: pam_unix(sudo:auth): authentication failure; user=admin
+Feb 28 01:10:20 kali sudo: pam_unix(sudo:auth): authentication failure; user=admin
+Feb 28 01:10:25 kali sudo: pam_unix(sudo:auth): authentication failure; user=admin
