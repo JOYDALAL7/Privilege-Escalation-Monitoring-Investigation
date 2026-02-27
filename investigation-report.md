@@ -125,7 +125,7 @@ by attackers.
 ## Evidence
 
 ### Suspicious Process Detection
-![Suspicious Process](Screenshots/suspicious-process.png)
+![Suspicious Process](Screenshots/suspicious-process-ps.png)
 
 ### Process Tree Analysis
 ![Process Tree](Screenshots/process-tree.png)
